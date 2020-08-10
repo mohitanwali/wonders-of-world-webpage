@@ -1,0 +1,27 @@
+img{
+	width: 100%;
+	height: 290px;
+	
+}
+
+ /* unvisited link */
+a:link {
+  color: red;
+  text-decoration-line: none;
+}
+
+/* visited link */
+a:visited {
+  color: teal;
+}
+
+/* mouse over link */
+a:hover {
+  color: blue;
+  text-decoration-line: underline;
+}
+
+/* selected link */
+a:active {
+  color: red;
+} 
