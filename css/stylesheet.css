@@ -13,6 +13,7 @@ a:link {
 /* visited link */
 a:visited {
   color: teal;
+  text-decoration-line: none;
 }
 
 /* mouse over link */
@@ -24,4 +25,5 @@ a:hover {
 /* selected link */
 a:active {
   color: red;
+  text-decoration-line: none;
 } 
